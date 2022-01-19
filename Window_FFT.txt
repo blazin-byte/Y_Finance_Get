@@ -1,0 +1,8 @@
+define a length window of a power of 2
+
+step the wondow through the data w a for loop
+
+at each step take fft
+
+use that as one col vector and build a matrix and move to a new chunk of data and repeat
+

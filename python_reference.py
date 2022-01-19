@@ -93,11 +93,11 @@ if True:
 
 # Python's equivalent of "switch-case" is called a "match" statement and it is more powerful
 # than Java/C's switch-case. This is Python 3.10 ONLY (brand new feature!)
-match True:
-    case True:
-        print("Match case true!")
-    case False:
-        print("Match case false!")
+# match True:
+#     case True:
+#         print("Match case true!")
+#     case False:
+#         print("Match case false!")
 
 # for loops can iterate over a range of numbers (end number is non-inclusive)
 for i in range(1, 5):
